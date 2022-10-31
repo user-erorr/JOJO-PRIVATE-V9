@@ -17,7 +17,7 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/c3a9fdaac1011ca1c9a2c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">THE_JO_BOT</h1>
 
@@ -25,8 +25,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/private`](https://github.com/THEJO307/private)
-* WhatsApp Bot Multi Device [`THEJO307/private`](https://github.com/THEJO307/private)
+* WhatsApp Bot normal [`THEJO307/private`](https://github.com/user-erorr/JOJO-PRIVATE-V9)
+* WhatsApp Bot Multi Device [`user-erorr/JOJO-PRIVATE-V9`](https://github.user-erorr/JOJO-PRIVATE-V9
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -37,7 +37,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/private
+git https://github.com/user-erorr/JOJO-PRIVATE-V9
 cd private
 npm install
 ```
@@ -58,8 +58,8 @@ pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs -y
 pkg install ffmpeg -y
-git clone https://github.com/THEJO307/private
-cd private
+git clone https://github.com/user-erorr/JOJO-PRIVATE-V9
+cd JOJO-PRIVATE-V9
 npm install
 ```
 
@@ -104,4 +104,5 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 Support THE JO BOT
 * [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
 
-# botmdjo
+# BOT THE JO 
+# RECODE BY USER-ERORR/DEATH BOT
